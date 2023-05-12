@@ -1,9 +1,10 @@
 # GAM
 
-GAMを用いたフィッティングの例です。[pyGAM](https://pygam.readthedocs.io/en/latest/index.html)を使用しているので、実行前に各自インストールしてください。
+GAMを用いたフィッティングの例です。
 
-2023/04/28現在、pyGAMのライブラリには[HELP REQUESTED]と記載されていますので、仕様に当たっては下のリンクをよく確認の上、十分注意してください。Rのパッケージの仕様をお勧めします。
+`GAM_pygam.ipynb`では[pyGAM](https://pygam.readthedocs.io/en/latest/index.html)を使用しているので、実行する場合は事前に各自インストールしてください。
 
+2023/04/28現在、pyGAMのライブラリには[HELP REQUESTED]と記載されていますので、仕様に当たっては下のリンクをよく確認の上、十分注意してください。
 https://github.com/dswah/pyGAM
 
 （私が確認した範囲だと、numpyの古いバージョンの構文に依存しているため、パッケージの依存関係を解消するのに苦労するかもしれません。）
